@@ -1,7 +1,6 @@
-## Olá meu nome é Davi Pereira 👋
-# Hi 👋, I'm Davi Pereira
+## E ai tudo bem? Eu sou o Davi Pereira 👋
 
-🚀 **I am a student of systems analysis and development | Python**  
+**Sou estudante de análise e desenvolvimento de sistemas
 🇧🇷 Brazil
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-Pereira2z)](https://github.com/Davi-Pereira2z/github-readme-stats)
