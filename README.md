@@ -1,6 +1,5 @@
 ## E ai tudo bem? Eu sou o Davi Pereira 👋
 
-**
 Graduando em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID), com grande interesse na área de desenvolvimento Back-end.
 
 Atualmente, estou focado em consolidar meus conhecimentos em lógica de programação e no domínio da linguagem Python, construindo meus primeiros códigos e scripts práticos. Também comecei recentemente meus estudos na linguagem Java para expandir minha base técnica.
