@@ -1,7 +1,10 @@
 ## E ai tudo bem? Eu sou o Davi Pereira 👋
 
-**Sou estudante de análise e desenvolvimento de sistemas
-🇧🇷 Brazil
+**
+Graduando em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID), com grande interesse na área de desenvolvimento Back-end.
+
+Atualmente, estou focado em consolidar meus conhecimentos em lógica de programação e no domínio da linguagem Python, construindo meus primeiros códigos e scripts práticos. Também comecei recentemente meus estudos na linguagem Java para expandir minha base técnica.
+Busco uma oportunidade de Estágio onde eu possa aplicar minha dedicação aos estudos, aprender com profissionais experientes e evoluir diariamente como desenvolvedor.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
