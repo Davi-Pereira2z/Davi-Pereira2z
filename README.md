@@ -5,9 +5,9 @@ Graduando em Análise e Desenvolvimento de Sistemas na Universidade Cidade de S�
 Atualmente, estou focado em consolidar meus conhecimentos em lógica de programação e no domínio da linguagem Python, construindo meus primeiros códigos e scripts práticos. Também comecei recentemente meus estudos na linguagem Java para expandir minha base técnica.
 Busco uma oportunidade de Estágio onde eu possa aplicar minha dedicação aos estudos, aprender com profissionais experientes e evoluir diariamente como desenvolvedor.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
  
 <div> 
   <a href="https://www.youtube.com/@DaviPereira-k5j" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
