@@ -6,29 +6,30 @@ Atualmente, estou focado em consolidar meus conhecimentos em lógica de programa
 Busco uma oportunidade de Estágio onde eu possa aplicar minha dedicação aos estudos, aprender com profissionais experientes e evoluir diariamente como desenvolvedor.
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
- 
+## Linguagens e Ferramentas
+
+<h3 align="center">Linguagens de Programação</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+
+</p>
+
+<h3 align="center">Ferramentas</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+
+</p>
+
 <div> 
   <a href="https://www.youtube.com/@DaviPereira-k5j" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/davi_pereira2z/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
   <a href="https://www.linkedin.com/in/davipereira-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</div>
-
-## Estatísticas
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Davi-Pereira2z&theme=dark&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=70a5fd" alt="streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Davi-Pereira2z&show_icons=true&theme=dark&title_color=70a5fd&icon_color=70a5fd&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&hide_border=false&cache_seconds=86400" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnoelgb&layout=compact&theme=dark&title_color=70a5fd&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&hide_border=false&cache_seconds=86400&langs_count=6" height="165"/>
 
 </div>
 
