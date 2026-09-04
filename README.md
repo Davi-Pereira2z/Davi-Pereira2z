@@ -20,13 +20,13 @@ Busco uma oportunidade de Estágio onde eu possa aplicar minha dedicação aos e
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=lucasnoelgb&theme=dark&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=70a5fd" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=Davi-Pereira2z&theme=dark&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=70a5fd" alt="streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucasnoelgb&show_icons=true&theme=dark&title_color=70a5fd&icon_color=70a5fd&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&hide_border=false&cache_seconds=86400" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Davi-Pereira2z&show_icons=true&theme=dark&title_color=70a5fd&icon_color=70a5fd&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&hide_border=false&cache_seconds=86400" height="165"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnoelgb&layout=compact&theme=dark&title_color=70a5fd&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&hide_border=false&cache_seconds=86400&langs_count=6" height="165"/>
 
