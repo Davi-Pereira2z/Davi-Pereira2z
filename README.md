@@ -1,10 +1,12 @@
-## E ai tudo bem? Eu sou o Davi Pereira 👋
+## E aí, tudo bem? Eu sou o Davi Pereira 👋
 
-Graduando em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID), com grande interesse na área de desenvolvimento Back-end.
+🎓 Graduando em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID), com foco em desenvolvimento Back-end e interesse em DevOps.
 
-Atualmente, estou focado em consolidar meus conhecimentos em lógica de programação e no domínio da linguagem Python, construindo meus primeiros códigos e scripts práticos. Também comecei recentemente meus estudos na linguagem Java para expandir minha base técnica.
-Busco uma oportunidade de Estágio onde eu possa aplicar minha dedicação aos estudos, aprender com profissionais experientes e evoluir diariamente como desenvolvedor.
+Atualmente, estou desenvolvendo meus conhecimentos em programação, com estudos em C, lógica e pensamento computacional, modelagem de dados e bancos de dados relacionais.
 
+Meu objetivo é consolidar minha base em desenvolvimento Back-end e, futuramente, aprofundar meus conhecimentos em DevOps, automação, infraestrutura e Cloud Computing.
+
+Busco uma oportunidade de estágio onde possa aplicar meus conhecimentos, desenvolver projetos, aprender com profissionais experientes e evoluir continuamente na área de tecnologia.
 
 ## Linguagens e Ferramentas
 
