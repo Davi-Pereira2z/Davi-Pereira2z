@@ -34,8 +34,14 @@ Busco uma oportunidade de estágio onde possa aplicar meus conhecimentos, desenv
 <h3 align="center">Ferramentas</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-
 </p>
+
+<h3 align="center">Serviços</h3>
+<p align="center">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+<p/>
+
+
 
 <div> 
   <a href="https://www.youtube.com/@DaviPereira-k5j" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
