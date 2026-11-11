@@ -1,6 +1,6 @@
-## E aí, tudo bem? Eu sou o Davi Pereira 👋
+## E aí, tudo bem? Eu sou o Davi Pereira
 
-🎓 Graduando em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID), com foco em desenvolvimento Back-end e interesse em DevOps.
+Graduando em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID), com foco em desenvolvimento Back-end e interesse em DevOps.
 
 Atualmente, estou desenvolvendo meus conhecimentos em programação, com estudos em C, lógica e pensamento computacional, modelagem de dados e bancos de dados relacionais.
 
